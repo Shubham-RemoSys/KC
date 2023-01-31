@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to validate if the user is able to navigate to the Digital Gold page</description>
+   <name>DigitalGold_PageNavigation</name>
+   <tag>REGRESSION</tag>
+   <comment></comment>
+   <testCaseGuid>44ae37e3-6dab-46b3-956c-867b6f4959e0</testCaseGuid>
+</TestCaseEntity>

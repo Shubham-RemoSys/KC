@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test is to test the the dropdown options of Welcome User Dropdown</description>
+   <name>ValidateDropDownValues_WelcomeUser</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>f909c694-7550-4d03-8980-eee9fcaf9d2e</testCaseGuid>
+</TestCaseEntity>

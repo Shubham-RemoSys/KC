@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>b881e7c8-2c74-493c-b6f1-8a197045fed4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.close-icon > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Jeweller'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>76cf8d9b-5fbf-4a14-a901-483d380278e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0px</value>
+      <webElementGuid>65730e37-90ff-4f16-a89a-414b6012fc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>0px</value>
+      <webElementGuid>8629ec3b-3d26-4cc3-be8c-386a81a7a837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 47.971 47.971</value>
+      <webElementGuid>f3806d45-eaab-45aa-a237-8d5dd28c41e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>17px</value>
+      <webElementGuid>fab01fc8-8b78-4c40-85ac-6408f187df26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>17px</value>
+      <webElementGuid>87ade898-ff79-4f86-bdc5-873298d7202e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;chat-widget widget-animation-enter-done&quot;]/div[@class=&quot;sc-htpNat DZhvI&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;action-button&quot;]/div[@class=&quot;close-icon&quot;]/svg[1]</value>
+      <webElementGuid>c7042144-c97a-4d84-aa41-e3b1d360291f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Gold  Diamond  Online Jewellery Shoppi_0b87d1/iframe_concat(id(, , selekt-chat-widget, , _6c8b0e</value>
+      <webElementGuid>ee95dd21-594e-4774-9064-185860a7e57f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Jeweller'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>885a8735-fb4f-423c-a004-0ee1cc7dcd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Jeweller'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dfcfccb1-5702-4954-960a-942f3c7ba7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Delivery at my Pincode'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>6c8ddf76-22d2-49c4-b129-61c3527625ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

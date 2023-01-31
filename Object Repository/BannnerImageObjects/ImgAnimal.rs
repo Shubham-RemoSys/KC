@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ImgAnimal</name>
+   <tag></tag>
+   <elementGuidId>5abae133-1b16-4ff8-814a-a28ac16c68df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-img.slick-slide.slick-current.slick-active > div.banner-inner > a > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[5]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>561ff512-db5f-4a11-ad7a-fa77b9c4e68c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>0ced4a8c-c0a1-4370-9e16-d6b69d96003a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Animal Collection by PC Jeweller</value>
+      <webElementGuid>fe845467-5edc-4004-95d0-1c1ae82f9b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-1__14364097101699071627__19891438981282862119.webp</value>
+      <webElementGuid>954c3142-a46b-4f4d-b13a-3727000ef6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>93050bbe-3c79-42a3-aea4-b4d8c3966543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>b9352571-caf2-40d8-9d00-156dbbe58ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix indextop-container&quot;]/div[@class=&quot;main-slider-content&quot;]/div[@class=&quot;sliders-wrapper&quot;]/div[@class=&quot;sliders-wrap-inner slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-img slick-slide slick-current slick-active&quot;]/div[@class=&quot;banner-inner&quot;]/a[1]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>f0c2bdb0-8ba0-4feb-b0c5-ca2a08e2eaf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[5]/div/a/img</value>
+      <webElementGuid>dc31c647-a427-402b-ae66-b1ed32e90b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Animal Collection by PC Jeweller']</value>
+      <webElementGuid>e05754fd-e281-4486-81d3-9b51f2d039ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/img</value>
+      <webElementGuid>cb628cb0-f9e7-482a-9fe5-39421657d0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Animal Collection by PC Jeweller' and @src = 'https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-1__14364097101699071627__19891438981282862119.webp']</value>
+      <webElementGuid>6525f600-04ed-4af5-9e0c-d0dcc1d80170</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

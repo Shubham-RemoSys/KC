@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ItemRemoved</name>
+   <tag></tag>
+   <elementGuidId>32e2f6a5-995c-44d9-abe6-13f053e5640e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='clearfix']//div[@id='common_message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='clearfix']//div[@id='common_message']</value>
+      <webElementGuid>fb9d1e3c-3385-424c-8e67-ce0c46439098</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

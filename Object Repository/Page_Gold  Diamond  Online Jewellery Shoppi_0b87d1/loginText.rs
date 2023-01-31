@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loginText</name>
+   <tag></tag>
+   <elementGuidId>a3518ed1-724a-4c38-b5b2-fe23ff482330</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[text()='Login']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[text()='Login']</value>
+      <webElementGuid>630d05e0-e875-4e40-b8e8-7723d886494d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

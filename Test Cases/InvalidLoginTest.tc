@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if user gets an error message when the user enters the invalid credentials</description>
+   <name>InvalidLoginTest</name>
+   <tag>REGRESSION</tag>
+   <comment></comment>
+   <testCaseGuid>dfdf390b-6bb5-4aa4-a2fe-74c35f04a7be</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ProductCategories_Header</name>
+   <tag></tag>
+   <elementGuidId>3c85bffe-4c3f-48c3-86a6-4e67433585cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@class='main-navigation']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@class='main-navigation']/li/a</value>
+      <webElementGuid>7990b31c-5582-4d79-a006-431d5e1f7336</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

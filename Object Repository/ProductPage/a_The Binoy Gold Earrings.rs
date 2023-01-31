@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Binoy Gold Earrings</name>
+   <tag></tag>
+   <elementGuidId>509d5eed-1989-4227-808b-a10595dc69ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.productTitle.h5style.font-medium.rmv-padding.text-overflow.margin-bottom > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li/div/div[2]/div/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2fd12d28-241c-4def-bb55-81c76b76f72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-binoy-gold-earrings.html?bid=MTEwMg==</value>
+      <webElementGuid>3a674620-4d8d-410b-93b9-d01d9144b9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>5d3bde57-00d0-4bd5-80c3-4cd577269e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Binoy Gold Earrings</value>
+      <webElementGuid>21b987ad-342a-4d30-892a-d48d63259696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;deatils pos-rel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 title-section text-center ss&quot;]/div[@class=&quot;hidden-xs&quot;]/h2[@class=&quot;productTitle h5style font-medium rmv-padding text-overflow margin-bottom&quot;]/a[1]</value>
+      <webElementGuid>cdbaffe6-517f-4982-ae74-2e47d30e4683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>18e5a4f9-29fa-457f-bb56-be6654ca94d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Binoy Gold Earrings')]</value>
+      <webElementGuid>7abac065-16e2-4402-9503-1d887008d4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW DETAILS'])[1]/following::a[2]</value>
+      <webElementGuid>cf5a2fde-538d-4748-bc1e-b841b677f883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY NOW'])[1]/following::a[3]</value>
+      <webElementGuid>c21ce566-f69a-4159-bad9-2832da00ab5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹13,779'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc8c1bce-ec5f-490f-b458-7e3a58cf4a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹14,204'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d1572a3-c249-42fe-b922-9c5a69f8ca47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Binoy Gold Earrings']/parent::*</value>
+      <webElementGuid>45a23aff-0ac0-46df-9252-872be7998137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/the-binoy-gold-earrings.html?bid=MTEwMg==')])[3]</value>
+      <webElementGuid>2be582f2-463e-4a21-8a18-a8ded3e27de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>0f441d76-48cb-44f8-8b8d-e6088ca0db03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-binoy-gold-earrings.html?bid=MTEwMg==' and (text() = 'The Binoy Gold Earrings' or . = 'The Binoy Gold Earrings')]</value>
+      <webElementGuid>71d53e4c-fd55-4f2d-816e-4897d3e1ef8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

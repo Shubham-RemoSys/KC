@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FilterPriceButton</name>
+   <tag></tag>
+   <elementGuidId>bd6e33ac-b7c5-4e43-bb82-b83be8cef745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.dropdown-toggle.text-overflow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3c28a3f1-e7c8-4287-ac63-04c2b82b0345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  dropdown-toggle text-overflow</value>
+      <webElementGuid>f47cc8d8-b405-45b8-863c-cfe3aad70a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38aa33e0-46e1-4e7f-b8d7-0acecea5f434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>11f95e54-530a-4e84-843a-694a002f6a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price
+</value>
+      <webElementGuid>1faaac5c-3685-4ebe-ba53-627a74fa8fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;sort_blk&quot;]/div[@class=&quot;fx-me pos-rel&quot;]/div[@class=&quot;category-browse clearfix&quot;]/div[@class=&quot;filters clearfix&quot;]/div[@class=&quot;dropdown pull-left list-first&quot;]/button[@class=&quot;btn  dropdown-toggle text-overflow&quot;]</value>
+      <webElementGuid>c7a0bdea-79ac-4528-8d3b-afc1f37775e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>13fee79c-4b29-4b31-8483-737593f5b08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[6]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>b5472096-efcb-4709-aa61-0c342062a8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILTER BY'])[1]/following::button[1]</value>
+      <webElementGuid>73d7b4c8-454e-42fd-a453-9bfa2f1dc51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[2]/preceding::button[1]</value>
+      <webElementGuid>8853f5ae-35fd-4c0a-a601-f9a181b13829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By Category'])[2]/preceding::button[1]</value>
+      <webElementGuid>512cecac-0110-404b-ad24-8505a453cf73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Price']/parent::*</value>
+      <webElementGuid>a0b1e1d1-1dbc-425a-a36e-4358c5b98c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/button</value>
+      <webElementGuid>aec47ef1-ebbb-463a-9d4c-1ebc132dcc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Price
+' or . = 'Price
+')]</value>
+      <webElementGuid>1188b4f5-1e35-4eef-b4c1-060f649df47a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

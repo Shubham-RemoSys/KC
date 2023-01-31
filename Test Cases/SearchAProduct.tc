@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that on searching, products get displayed on the basis of their relevancy.</description>
+   <name>SearchAProduct</name>
+   <tag>REGRESSION</tag>
+   <comment></comment>
+   <testCaseGuid>e9a2e6a5-36a4-46c7-ba9e-b677de2604c5</testCaseGuid>
+</TestCaseEntity>

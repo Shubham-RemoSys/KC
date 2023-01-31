@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ItemFoundSuccessfullMSZ</name>
+   <tag></tag>
+   <elementGuidId>bd3f3173-c29b-4df5-baa0-10f030502723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='content-wrapper']//div[@class='container']/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']//div[@class='container']/h1</value>
+      <webElementGuid>ae89eb1d-9b47-4ee7-be1a-a0801f012f43</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used to validate the Delete functionality</description>
+   <name>DeleteProduct</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>c71211e6-f523-447b-a636-c765a5dc84e7</testCaseGuid>
+</TestCaseEntity>

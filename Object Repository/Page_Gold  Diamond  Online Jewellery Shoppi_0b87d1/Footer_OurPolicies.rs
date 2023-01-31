@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Footer_OurPolicies</name>
+   <tag></tag>
+   <elementGuidId>de9df4f3-671f-4953-aeab-c33c05535787</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer']/div/div/div/div/div/div[3]/div/ul/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a00ea456-2e77-4623-88a6-33e157f58e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> OUR POLICIES</value>
+      <webElementGuid>56fcef12-b8f2-478b-997b-6491fe0cfbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footerBottom&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footermenublock&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footermenu hidden-xs hidden-sm&quot;]/div[@class=&quot;container ftr-menu&quot;]/ul[1]/li[2]/span[1]</value>
+      <webElementGuid>94709280-345e-4e79-9050-7aba257ed27d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer']/div/div/div/div/div/div[3]/div/ul/li[2]/span</value>
+      <webElementGuid>fa8bc440-77fa-42e1-b7a4-e9ed1cd0e6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[1]/following::span[1]</value>
+      <webElementGuid>971049cd-9fdb-43bd-b240-98c30dd09e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Gold'])[2]/following::span[1]</value>
+      <webElementGuid>8ddd273a-9e5d-4ec6-a1f0-c6bf5efca442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ICICI Cashback offer t&amp;c'])[1]/preceding::span[1]</value>
+      <webElementGuid>6d20a919-a201-4cf6-bd2a-71a1f4d61e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return &amp; Exchange Policy'])[1]/preceding::span[1]</value>
+      <webElementGuid>adef7576-5836-4526-ae24-bec87d627fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OUR POLICIES']/parent::*</value>
+      <webElementGuid>a8a84d1d-2f95-49c0-842f-5f78306e8337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/span</value>
+      <webElementGuid>35aa54bd-8b74-44fc-971e-e0cbee80d01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' OUR POLICIES' or . = ' OUR POLICIES')]</value>
+      <webElementGuid>633fc752-1af3-45cf-b8b7-5af199f966f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

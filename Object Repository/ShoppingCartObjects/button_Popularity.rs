@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Popularity</name>
+   <tag></tag>
+   <elementGuidId>e599bc56-1cab-4d9d-b9df-7dd7e45edcd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.dropdown-toggle.text-overflow.hidden-xs.hidden-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24b4ae5d-96a1-456a-83f1-7c822714c476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  dropdown-toggle text-overflow hidden-xs hidden-sm</value>
+      <webElementGuid>d76f3d54-5f14-4ffe-b0d2-ec1cfb343e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2b6d2434-a229-402a-8b85-43476b79bf43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>4df6742a-efc6-4028-b622-b00bcce7b5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Popularity
+
+</value>
+      <webElementGuid>6e9f9103-eac8-4573-bb04-79c16a72fa7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;sort_blk&quot;]/div[@class=&quot;fx-me pos-rel&quot;]/div[@class=&quot;fitlersort&quot;]/div[@class=&quot;dropdown pull-right rmv-margin-right list-first&quot;]/button[@class=&quot;btn  dropdown-toggle text-overflow hidden-xs hidden-sm&quot;]</value>
+      <webElementGuid>b6076124-d760-4ae0-957e-13c9585ea3bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>7b21309d-b751-448b-bf13-5053843f204e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[6]/div/div/div[3]/div/button</value>
+      <webElementGuid>5d4d49e7-99a8-4af5-b396-dc4ccd88635a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::button[1]</value>
+      <webElementGuid>5c896c39-3793-44ef-886f-ac5f8fc7569b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILTER BY'])[3]/following::button[1]</value>
+      <webElementGuid>633595d1-0963-4d26-ae76-b21ca5aabc60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[2]/preceding::button[1]</value>
+      <webElementGuid>8213ea37-1157-4a54-ba0d-c80c786492ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>1489136a-dac7-449b-b8ba-119373014be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+Popularity
+
+' or . = '
+Popularity
+
+')]</value>
+      <webElementGuid>330a1a8a-dd7d-419e-b243-2488fb0a9181</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

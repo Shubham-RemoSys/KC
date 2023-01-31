@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ImgAnant</name>
+   <tag></tag>
+   <elementGuidId>5872cc2c-5776-4681-b7b0-e09c229707de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-img.slick-slide.slick-current.slick-active > div.banner-inner > a > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[4]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2344d640-aa46-46b8-92ee-7a38a75a5cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>424f8ad6-4c6f-440e-bdbf-ac384cd0c8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Anant Banner</value>
+      <webElementGuid>42947ff2-6192-4e17-a6ff-1639763fd16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-3__16891655811798830857__6122026011867746855.webp</value>
+      <webElementGuid>3885764a-86b8-4c9f-93ee-1a1ef9a79971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>013f1448-6bac-4960-91cf-f7df82f79958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>86702f1d-baf4-4e8b-ad11-51a9a7314fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix indextop-container&quot;]/div[@class=&quot;main-slider-content&quot;]/div[@class=&quot;sliders-wrapper&quot;]/div[@class=&quot;sliders-wrap-inner slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-img slick-slide slick-current slick-active&quot;]/div[@class=&quot;banner-inner&quot;]/a[1]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>9657780b-8a4e-47c3-bd7b-76a981d54d27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[4]/div/a/img</value>
+      <webElementGuid>7cc41f1f-cf8c-4120-8f24-cbeabad95c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Anant Banner']</value>
+      <webElementGuid>00ec5f1d-0148-4f05-ba31-71a0f19c05b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a/img</value>
+      <webElementGuid>a6c1f452-b291-45c2-8fc7-687592a9c4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Anant Banner' and @src = 'https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-3__16891655811798830857__6122026011867746855.webp']</value>
+      <webElementGuid>ed33c77e-6a4d-474d-b2d8-4ab6a8332824</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

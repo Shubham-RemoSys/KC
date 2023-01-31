@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SilverLink</name>
+   <tag></tag>
+   <elementGuidId>ce725f54-c95e-42ae-98f1-ee2483712ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(@href,'http://www.pcjeweller.com/jewellery/silver.html')][normalize-space()='Silver']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(@href,'http://www.pcjeweller.com/jewellery/silver.html')][normalize-space()='Silver']</value>
+      <webElementGuid>71a98d14-c124-4ca8-bccd-d20a98c939e5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NavigateHomePage_BESTSELLERPage</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>a28a6876-52d3-4cb5-8e85-c02fc101529b</testCaseGuid>
+</TestCaseEntity>

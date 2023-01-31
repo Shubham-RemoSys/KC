@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if the user is navigating to the wishlist without login - Login window should be displayed</description>
+   <name>AccessWishlist_BeforeLogin</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>dc05deaa-bec7-48c1-b720-792cfaba3ff9</testCaseGuid>
+</TestCaseEntity>

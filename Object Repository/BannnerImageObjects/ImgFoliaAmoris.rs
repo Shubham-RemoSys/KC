@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ImgFoliaAmoris</name>
+   <tag></tag>
+   <elementGuidId>fc2277d4-46d9-4790-8807-f38cbfd4a7b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-img.slick-slide.slick-current.slick-active > div.banner-inner > a > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[3]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ab91095a-f18a-4f2a-8605-30799d00e58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>fb3eb49c-5ab7-43df-9412-c3c98383bff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Folia Amoris</value>
+      <webElementGuid>0e4e211d-8809-4f01-947e-503937574a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-4__925770027450032009__14925854471611336329.webp</value>
+      <webElementGuid>cad5b94b-fdca-4575-a234-8b5156e28dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>2df7c022-01e4-44fb-9c24-97aef2aa417c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>60af4c69-885e-4a1a-a960-14f2069b4135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix indextop-container&quot;]/div[@class=&quot;main-slider-content&quot;]/div[@class=&quot;sliders-wrapper&quot;]/div[@class=&quot;sliders-wrap-inner slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-img slick-slide slick-current slick-active&quot;]/div[@class=&quot;banner-inner&quot;]/a[1]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>d8643e49-d09d-4682-aedc-2a5259feb352</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[3]/div/a/img</value>
+      <webElementGuid>006095f0-81a9-4fe6-b833-7780200f0508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Folia Amoris']</value>
+      <webElementGuid>4658644e-a2ec-40cb-9f06-b7740827e735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>38f23192-532d-42c5-9af8-cacc9c4dba2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Folia Amoris' and @src = 'https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-4__925770027450032009__14925854471611336329.webp']</value>
+      <webElementGuid>4cabe99a-e630-41dd-a81c-4a0fc2d6f4cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

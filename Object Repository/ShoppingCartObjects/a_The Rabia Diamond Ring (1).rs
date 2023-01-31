@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Rabia Diamond Ring (1)</name>
+   <tag></tag>
+   <elementGuidId>282cec37-3bc9-40aa-92f3-b02fe7b81c4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_ajax_section']/div[2]/div/div/figcaption/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.readOnlyLink.dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d4dd667-6c78-4b7c-8394-fb2001fffe62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-rabia-diamond-ring.html?configid=458384</value>
+      <webElementGuid>36c7c8b0-9207-4138-81c6-83f994c1e223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>readOnlyLink dark</value>
+      <webElementGuid>6f53235f-e6b0-4249-b18b-7e76ae98161a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>ddb3792a-a65e-4d66-9dd3-1b71fd688fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>The Rabia Diamond Ring</value>
+      <webElementGuid>615a7002-1449-4075-a5a2-38b293e7cfca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Rabia Diamond Ring</value>
+      <webElementGuid>cb84d3bd-9593-4650-b9f6-f7fdefb30e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_section&quot;)/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;col-md-9 col-xs-12 cartinr left&quot;]/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;clearfix cartItem&quot;]/div[@class=&quot;col-sm-6 col-xs-6 col-lg-6 rmv-padding-left brk6-left&quot;]/div[@class=&quot;cartItemName clearfix&quot;]/figcaption[1]/a[@class=&quot;readOnlyLink dark&quot;]</value>
+      <webElementGuid>eb594f88-6982-4fb5-ac9c-1ec03d644e28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_ajax_section']/div[2]/div/div/figcaption/a</value>
+      <webElementGuid>e66bbda1-002a-42cb-9fbf-1acc4d2d7f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Rabia Diamond Ring')]</value>
+      <webElementGuid>c171a737-43d9-4ada-a29a-0e50eabfde40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::a[1]</value>
+      <webElementGuid>52bab067-3690-44ab-92a9-d92dc0f9146c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::a[1]</value>
+      <webElementGuid>3d974f3e-33b4-4936-8919-60db82752d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f344605-ba07-44f3-9fcc-4dbb43df46b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Rabia Diamond Ring']/parent::*</value>
+      <webElementGuid>1971f61c-80d3-44d3-9315-b54249dcde2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/the-rabia-diamond-ring.html?configid=458384')]</value>
+      <webElementGuid>f43a9ec8-49e3-41e3-9f54-ea093d7c45fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figcaption/a</value>
+      <webElementGuid>53b48eeb-26d9-4269-bd39-7757c7b98f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-rabia-diamond-ring.html?configid=458384' and @title = 'The Rabia Diamond Ring' and (text() = 'The Rabia Diamond Ring' or . = 'The Rabia Diamond Ring')]</value>
+      <webElementGuid>49539c2f-09d0-4e2b-8945-f8709c13b5fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NavigateHomePage_EarringsPage</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>4663f1b6-3ad2-436e-95a5-0fdf82755a18</testCaseGuid>
+</TestCaseEntity>

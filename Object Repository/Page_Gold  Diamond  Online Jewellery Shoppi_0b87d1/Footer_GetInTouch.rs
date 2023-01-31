@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Footer_GetInTouch</name>
+   <tag></tag>
+   <elementGuidId>1cd87ecf-919b-403e-ba32-bc655c7d188d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer']/div/div/div/div/div/div[3]/div/ul/li[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fede327f-8e3b-40ba-a54c-736fca2df322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> GET IN TOUCH</value>
+      <webElementGuid>5ab5527b-db9c-4a92-bc96-f1dd03409b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footerBottom&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footermenublock&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footermenu hidden-xs hidden-sm&quot;]/div[@class=&quot;container ftr-menu&quot;]/ul[1]/li[5]/span[1]</value>
+      <webElementGuid>864da0a1-a005-4952-b211-cb18e0c13763</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer']/div/div/div/div/div/div[3]/div/ul/li[5]/span</value>
+      <webElementGuid>fa07dc9f-1618-4da5-8df6-773f7018d1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting Guide'])[1]/following::span[1]</value>
+      <webElementGuid>f3b12ae7-f5d1-4d26-b930-a9971018cf58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal Guide'])[1]/following::span[1]</value>
+      <webElementGuid>564cb8ce-2a09-468a-aec3-6454d44a09f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(10am - 6pm IST, MON - SAT)'])[1]/preceding::span[3]</value>
+      <webElementGuid>35a5b670-2836-45f2-a990-aac2695b659d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GET IN TOUCH']/parent::*</value>
+      <webElementGuid>af04987a-afaf-4603-a4dd-e2807cf23e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[5]/span</value>
+      <webElementGuid>ecca18b7-289a-475a-9bdb-8f9f2e261ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' GET IN TOUCH' or . = ' GET IN TOUCH')]</value>
+      <webElementGuid>3e346eb4-c0b7-4b45-a3fa-f335bd9cbfff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

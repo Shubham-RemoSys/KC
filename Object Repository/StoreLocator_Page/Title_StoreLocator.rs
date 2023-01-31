@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_StoreLocator</name>
+   <tag></tag>
+   <elementGuidId>16d0de42-efb6-4618-86c3-1e75247f0d6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-302']/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.title-h1.post-title.p_b20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2681e05b-5187-4b63-af80-6a63e10fa841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-h1 post-title p_b20</value>
+      <webElementGuid>f90f787e-f2b0-4012-bc9a-ab3e8f4a26bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Store Locator</value>
+      <webElementGuid>593f4086-6545-4541-afbf-d7391fa0b450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-302&quot;)/div[@class=&quot;main_content&quot;]/div[@class=&quot;content_left&quot;]/div[@class=&quot;page_content_wrapper&quot;]/h1[@class=&quot;title-h1 post-title p_b20&quot;]</value>
+      <webElementGuid>0d6796e8-c5cb-4e4b-b46f-f85dc75f3e98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-302']/div/div/div/h1</value>
+      <webElementGuid>746b2fb8-1f74-46b4-b4b8-457358abcae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store Locator'])[1]/following::h1[1]</value>
+      <webElementGuid>99ca778a-f9dc-4b3d-b8b3-41c34fcb9db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[5]/following::h1[1]</value>
+      <webElementGuid>97309eac-534a-49df-8562-bfb00ddaa0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Location'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a1612212-fa1b-4da4-a2c4-94ccb547de90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Results'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b55924cc-5048-4ab1-99cf-7fc788e633e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>b258a39a-b692-4efd-9135-033912e42d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Store Locator' or . = 'Store Locator')]</value>
+      <webElementGuid>1b3694bd-53f4-4278-afd1-fa49aa870154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

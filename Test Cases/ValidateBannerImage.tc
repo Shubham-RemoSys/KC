@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if the user is able to change the banner image</description>
+   <name>ValidateBannerImage</name>
+   <tag>REGRESSION</tag>
+   <comment></comment>
+   <testCaseGuid>de62ce83-2778-418f-a323-922713b6e9e5</testCaseGuid>
+</TestCaseEntity>

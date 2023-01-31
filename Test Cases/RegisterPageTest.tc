@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the functionality of Register link</description>
+   <name>RegisterPageTest</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>41ade2eb-d32c-4c5c-aa8d-29383ef952e4</testCaseGuid>
+</TestCaseEntity>

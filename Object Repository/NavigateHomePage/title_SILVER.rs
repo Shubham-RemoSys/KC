@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_SILVER</name>
+   <tag></tag>
+   <elementGuidId>eef5e4bc-9b9e-4ff7-ab39-3820b143bd7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='banner-inner']//img[contains(@title,'Silver')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='banner-inner']//img[contains(@title,'Silver')]</value>
+      <webElementGuid>3acc53ae-1384-449b-84a3-0e6cb2d7a889</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

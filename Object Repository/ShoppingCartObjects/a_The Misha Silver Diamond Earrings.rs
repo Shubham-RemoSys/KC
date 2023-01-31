@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Misha Silver Diamond Earrings</name>
+   <tag></tag>
+   <elementGuidId>afb89d65-6b54-44d1-a970-5556a2ea486a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li/div/div[2]/div/div/div/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.productTitle.h5style.font-medium.rmv-padding.text-overflow.margin-bottom > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>92a67c94-cdd1-471c-95d1-207ea3ce8aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-misha-silver-diamond-earrings.html?bid=</value>
+      <webElementGuid>f59d5829-3395-45d4-9f01-4b1dd9d40104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>3a9022ce-2679-4bb0-bbf2-4881f1ea4938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Misha Silver Diamond Earrings</value>
+      <webElementGuid>8108affd-4e45-48ee-a3f5-b3fa5ee94ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;deatils pos-rel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 title-section text-center ss&quot;]/div[@class=&quot;hidden-xs&quot;]/h2[@class=&quot;productTitle h5style font-medium rmv-padding text-overflow margin-bottom&quot;]/a[1]</value>
+      <webElementGuid>03cab0a1-6f9e-4645-8a3f-260eec874687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>6c3ffbd7-75ad-4c05-9f3b-f1f99d942faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Misha Silver Diamond Earrings')]</value>
+      <webElementGuid>0238fc0e-4854-4187-a49b-034572bead85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW DETAILS'])[1]/following::a[2]</value>
+      <webElementGuid>96d8770d-d183-461d-9104-6ad7f8aaf561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY NOW'])[1]/following::a[3]</value>
+      <webElementGuid>8ca029e1-a419-4d23-9228-99dcbac97f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹4,019'])[1]/preceding::a[1]</value>
+      <webElementGuid>d66e67cd-ff7b-414b-8331-2746287a2cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹4,727'])[1]/preceding::a[1]</value>
+      <webElementGuid>e179cc15-e9db-4207-9657-6343aca96e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Misha Silver Diamond Earrings']/parent::*</value>
+      <webElementGuid>f2325526-5c0c-4c31-8e18-df330e04e574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/the-misha-silver-diamond-earrings.html?bid=')])[3]</value>
+      <webElementGuid>898cd99b-4be9-4fab-aaba-45aaa119e762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>5b25fe99-3c4d-4832-aeb0-4d218bd48d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-misha-silver-diamond-earrings.html?bid=' and (text() = 'The Misha Silver Diamond Earrings' or . = 'The Misha Silver Diamond Earrings')]</value>
+      <webElementGuid>bc0c762e-f11d-40a0-9cec-3c7ac363208d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Footer_EducationEducation</name>
+   <tag></tag>
+   <elementGuidId>7baa13a3-2f05-4df6-a861-3ac27365a72a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer']/div/div/div/div/div/div[3]/div/ul/li[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>18b07b61-5078-4af0-ac12-38c7bd3c578a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Education  </value>
+      <webElementGuid>fac48d4e-09b5-48e2-a024-46fc22a6adb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Education</value>
+      <webElementGuid>c55c01c0-d924-4b63-807a-23abb955b3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footerBottom&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footermenublock&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;footermenu hidden-xs hidden-sm&quot;]/div[@class=&quot;container ftr-menu&quot;]/ul[1]/li[@class=&quot;Education&quot;]/span[@class=&quot;Education&quot;]</value>
+      <webElementGuid>28385cc5-edac-4006-af55-06a0cc710e95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer']/div/div/div/div/div/div[3]/div/ul/li[4]/span</value>
+      <webElementGuid>0d0a10b4-ea3c-4b00-ba1e-54f07624115e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SBI Offers'])[1]/following::span[1]</value>
+      <webElementGuid>4ee163c9-b47c-4879-b2a7-ce3df3877f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jewellery Makeover'])[1]/following::span[1]</value>
+      <webElementGuid>be32accf-fdfe-4a01-a7e1-90de6a103769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diamond Education'])[1]/preceding::span[1]</value>
+      <webElementGuid>1e0b4638-ebe8-4b7c-8a52-63b59e91880d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal Guide'])[1]/preceding::span[1]</value>
+      <webElementGuid>c5fd8e85-a85d-42fc-9cbe-f9c2d12a3fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Education']/parent::*</value>
+      <webElementGuid>d3b776cd-2895-4e62-8394-a2bbda8c0515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[4]/span</value>
+      <webElementGuid>4afee0c3-fb51-4722-b20f-54dad7f72f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Education' or . = ' Education')]</value>
+      <webElementGuid>ee29f18a-59d7-4a62-826e-74de0f532d50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

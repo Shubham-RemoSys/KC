@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chatDialoguePCJtext</name>
+   <tag></tag>
+   <elementGuidId>3f51b2c3-ef33-48db-8484-67d17c8c46b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.name.only-agent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ef41fcfc-2942-4b36-8eef-798b4ab36263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>agent-name</value>
+      <webElementGuid>046661d0-779a-4631-8093-ef84e2d36978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name only-agent</value>
+      <webElementGuid>129eae2f-88da-407f-87eb-a6daefedb8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PC Jeweller</value>
+      <webElementGuid>fc9366f4-5513-4081-b98f-35d12123bd41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;chat-widget widget-animation-enter-done&quot;]/div[@class=&quot;sc-htpNat DZhvI&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;agent-icons&quot;]/div[@class=&quot;agent-info&quot;]/div[@class=&quot;agent-name&quot;]/span[@class=&quot;name only-agent&quot;]</value>
+      <webElementGuid>bbcaad8f-8260-42db-a964-aa58227f8dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Gold  Diamond  Online Jewellery Shoppi_0b87d1/iframe_concat(id(, , selekt-chat-widget, , _6c8b0e</value>
+      <webElementGuid>06d3f737-7107-40f8-8c72-d9cc92614119</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div/div/div/span</value>
+      <webElementGuid>505f375c-037b-498d-8185-7985ca5066ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Jeweller'])[2]/preceding::span[3]</value>
+      <webElementGuid>37396e90-4b5d-4476-ab05-ce5a261f8010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Delivery at my Pincode'])[1]/preceding::span[5]</value>
+      <webElementGuid>3f55f349-1422-489e-893e-697c9a291909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PC Jeweller']/parent::*</value>
+      <webElementGuid>9b6dfc81-fbfe-4b05-99f7-b933d130d4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>1036d626-a6d9-4623-8e8f-75f3c2fb93ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PC Jeweller' or . = 'PC Jeweller')]</value>
+      <webElementGuid>842cb8e2-c842-47ae-bc43-ebbabaa78e9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

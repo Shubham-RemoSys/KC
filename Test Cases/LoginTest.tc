@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the login using valid credentials</description>
+   <name>LoginTest</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>e81fc962-6652-485e-afaf-1ef06f0d124f</testCaseGuid>
+</TestCaseEntity>

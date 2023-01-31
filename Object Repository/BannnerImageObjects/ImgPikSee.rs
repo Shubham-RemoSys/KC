@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ImgPikSee</name>
+   <tag></tag>
+   <elementGuidId>2f2eb5ac-9ad0-446a-973d-01c0bd60785a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-img.slick-slide.slick-current.slick-active > div.banner-inner > a > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[6]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ccb0f69d-433e-4288-af50-cb96d3f2af52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>84bbe880-2c20-4044-bd70-c72df9a8a3c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Pik See Collection</value>
+      <webElementGuid>9722bbed-f417-4652-a6ce-d433d2ccdbf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-2__1181714597782739688__1195773011782459538.webp</value>
+      <webElementGuid>084aabd2-9e91-42ce-a883-a4c8e09cb6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>90e2c119-14c6-4310-a3d3-c116620d8bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>47bcfe05-0d7f-4e0a-af15-9d25de946a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix indextop-container&quot;]/div[@class=&quot;main-slider-content&quot;]/div[@class=&quot;sliders-wrapper&quot;]/div[@class=&quot;sliders-wrap-inner slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-img slick-slide slick-current slick-active&quot;]/div[@class=&quot;banner-inner&quot;]/a[1]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>5df7a15c-946a-430f-81c1-15557356a568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[6]/div/a/img</value>
+      <webElementGuid>3c10413e-ffa7-442b-ad37-0c96b53c74a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Pik See Collection']</value>
+      <webElementGuid>58cdb7dd-c89b-469b-bbfe-d8f9879abf83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a/img</value>
+      <webElementGuid>9cbff2be-6703-48f3-b65d-475abde148ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Pik See Collection' and @src = 'https://cf-cdn.pcjeweller.com/public/uploads/banner/banner-2__1181714597782739688__1195773011782459538.webp']</value>
+      <webElementGuid>12166378-cbd3-434a-b345-2f86a3d8e6ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

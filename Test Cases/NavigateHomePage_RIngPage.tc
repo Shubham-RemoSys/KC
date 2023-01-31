@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test is used to validate if the user is able to navigate to the homepage of the app from Ring page using Logo of the App</description>
+   <name>NavigateHomePage_RIngPage</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>a394d28d-caca-4dbc-92c0-ce97144bfe17</testCaseGuid>
+</TestCaseEntity>

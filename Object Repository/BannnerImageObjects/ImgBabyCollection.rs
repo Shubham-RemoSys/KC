@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ImgBabyCollection</name>
+   <tag></tag>
+   <elementGuidId>aab2979a-d146-4aa0-a7b3-9423dac8544f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-img.slick-slide.slick-current.slick-active > div.banner-inner > a > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[2]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>22f53bbc-ee93-44da-8595-e7df13c4da0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>90d9b721-e21d-4727-a361-8de9544c8714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Baby Collection</value>
+      <webElementGuid>6b62e2fa-c3d2-415a-84eb-31b4b1ac8991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/banner/Desktop-Banner-Baby__1231996102075666407.jpg</value>
+      <webElementGuid>82bf5ffc-67e0-423b-8168-96596256ec6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>5bf865d5-0004-4cbf-9b63-2da24245a58c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>41995b9f-a715-4ce2-9989-0709632fef76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix indextop-container&quot;]/div[@class=&quot;main-slider-content&quot;]/div[@class=&quot;sliders-wrapper&quot;]/div[@class=&quot;sliders-wrap-inner slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-img slick-slide slick-current slick-active&quot;]/div[@class=&quot;banner-inner&quot;]/a[1]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>1dd89c6b-4275-4332-aa1d-e8b8c823023c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div[13]/div/div/div/div/div/div[2]/div/a/img</value>
+      <webElementGuid>e99e185c-7f5b-41bf-a49e-c9e0a255d15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Baby Collection']</value>
+      <webElementGuid>e3fd8f6c-6105-4139-a58f-d61e4cbdf122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>14031237-c15a-4b32-924b-fb9f57b81da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Baby Collection' and @src = 'https://cf-cdn.pcjeweller.com/public/uploads/banner/Desktop-Banner-Baby__1231996102075666407.jpg']</value>
+      <webElementGuid>9cc096f6-7e20-4333-92c9-2a7cc876fb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

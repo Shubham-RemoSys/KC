@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NavigateHomePage_ALLJWELLERYPage</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>d6042a49-573c-45ad-96c2-b97dbd210d1a</testCaseGuid>
+</TestCaseEntity>

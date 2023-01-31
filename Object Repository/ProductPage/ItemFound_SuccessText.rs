@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ItemFound_SuccessText</name>
+   <tag></tag>
+   <elementGuidId>b2b83609-7667-4c77-ac0a-dc487ae40797</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0a08ef4e-0807-48c2-9190-3d7db9c64497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caption1 h4style margin-vertical padding-top rmv-padding-bottom text-uppercase </value>
+      <webElementGuid>22117533-61bf-4041-8bbc-b3e2ff64adce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1 item(s) found for &quot;THE GOLD CHAIN GCH08410631&quot;
+</value>
+      <webElementGuid>ae913e33-927f-4ad2-bed2-083c33e59c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']//div[@class='container']//h1</value>
+      <webElementGuid>9cc131da-091b-4ea5-bd39-7085465194d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/h1</value>
+      <webElementGuid>6bdbb3e8-fce2-4006-8270-bdebfbcc415e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Gold'])[1]/following::h1[1]</value>
+      <webElementGuid>d677068e-6564-49c4-9871-423a2ce5c3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silver'])[4]/following::h1[1]</value>
+      <webElementGuid>0d5f40ff-9095-4010-b335-3d1821df9e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILTER BY'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c24be936-0987-4a54-8a27-80dbc7d24092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='item(s) found for']/parent::*</value>
+      <webElementGuid>bf04f1e5-31a3-4faa-a05a-726ecbffac14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>339b6dca-8767-4786-8ac8-1ef6c69d63bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' 1 item(s) found for &quot;THE GOLD CHAIN GCH08410631&quot;
+' or . = ' 1 item(s) found for &quot;THE GOLD CHAIN GCH08410631&quot;
+')]</value>
+      <webElementGuid>3ca69dd0-6138-4134-88ea-e95ec6a94df0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

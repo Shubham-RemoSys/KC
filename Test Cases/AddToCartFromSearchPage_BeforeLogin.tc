@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is use to validate if the user is able to add the item to the cart before login in to thr application</description>
+   <name>AddToCartFromSearchPage_BeforeLogin</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>46800bde-7531-41a5-b821-07e7c55f4628</testCaseGuid>
+</TestCaseEntity>

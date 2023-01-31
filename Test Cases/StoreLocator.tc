@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This this is used to validate the store locator functionality of PCJ on HomePage</description>
+   <name>StoreLocator</name>
+   <tag>REGRESSION</tag>
+   <comment></comment>
+   <testCaseGuid>5407d2fc-4a27-4fa2-ae8f-c9ce419485fa</testCaseGuid>
+</TestCaseEntity>

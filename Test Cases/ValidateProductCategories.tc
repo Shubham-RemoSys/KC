@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase is used to validate if all the categories are displayed on the Header of the webpage</description>
+   <name>ValidateProductCategories</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>4591e6d2-a4a6-4886-89c3-89b1f0eb75ad</testCaseGuid>
+</TestCaseEntity>
